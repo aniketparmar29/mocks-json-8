@@ -1,110 +1,103 @@
 {
-"report":[
-	
-],
-  "movie": [
-    	{
-		"id" : 1,
-		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-		"title" : "Doctor Strange in the Multiverse of Madness",
-		"director" : "Sam Raimi",
-		"year" : 2022,
-		"genre" : "Action",
-		"IMDB_Rating" : 6.8,
-		"ticket" : 200
-	},
-	{
-		"id" : 2,
-		"poster" : "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-		"title" : "I Am Legend",
-		"director" : "Francis Lawrence",
-		"year" : 2007,
-		"genre" : "Horror",
-		"IMDB_Rating" : 7.2,
-		"ticket" : 200
-	},
-	  {
-		"id" : 3,
-		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-		"title" : "Doctor Strange in the Multiverse of Madness",
-		"director" : "Sam Raimi",
-		"year" : 2022,
-		"genre" : "Action",
-		"IMDB_Rating" : 6.8,
-		"ticket" : 200
-	},
-	{
-		"id" : 4,
-		"poster" : "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-		"title" : "I Am Legend",
-		"director" : "Francis Lawrence",
-		"year" : 2007,
-		"genre" : "Horror",
-		"IMDB_Rating" : 7.2,
-		"ticket" : 200
-	},
-	  {
-		"id" : 5,
-		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-		"title" : "Doctor Strange in the Multiverse of Madness",
-		"director" : "Sam Raimi",
-		"year" : 2022,
-		"genre" : "Action",
-		"IMDB_Rating" : 6.8,
-		"ticket" : 200
-	},
-	{
-		"id" : 6,
-		"poster" : "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-		"title" : "I Am Legend",
-		"director" : "Francis Lawrence",
-		"year" : 2007,
-		"genre" : "Horror",
-		"IMDB_Rating" : 7.2,
-		"ticket" : 200
-	},
-	  {
-		"id" : 7,
-		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-		"title" : "Doctor Strange in the Multiverse of Madness",
-		"director" : "Sam Raimi",
-		"year" : 2022,
-		"genre" : "Action",
-		"IMDB_Rating" : 6.8,
-		"ticket" : 200
-	},
-	{
-		"id" : 8,
-		"poster" : "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-		"title" : "I Am Legend",
-		"director" : "Francis Lawrence",
-		"year" : 2007,
-		"genre" : "Horror",
-		"IMDB_Rating" : 7.2,
-		"ticket" : 200
-	},
-	  {
-		"id" : 9,
-		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-		"title" : "Doctor Strange in the Multiverse of Madness",
-		"director" : "Sam Raimi",
-		"year" : 2022,
-		"genre" : "Action",
-		"IMDB_Rating" : 6.8,
-		"ticket" : 200
-	},
-	{
-		"id" : 10,
-		"poster" : "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-		"title" : "I Am Legend",
-		"director" : "Francis Lawrence",
-		"year" : 2007,
-		"genre" : "Horror",
-		"IMDB_Rating" : 7.2,
-		"ticket" : 200
-	}
+  "banner_key": "ca-app-pub-4925239845877035/7026978393",
+  "interstitial_key": "ca-app-pub-4925239845877035/9405729726",
+  "native_key": "ca-app-pub-4925239845877035/6273004195",
+  "app_open_ads": "ca-app-pub-4925239845877035/4400815054",
+  "privacy_policy": "https://mycrainfo.blogspot.com/2024/10/gb-version-2024-privacy-policy.html",
+  "privacy_policy_text": "https://mycrainfo.blogspot.com/2024/10/gb-version-2024-privacy-policy.html",
+  "terms_condition": "https://sites.google.com/view/livephoto",
+  "app_id": "6737214824",
+  "is_app_open_ads": 1,
+  "ads_count": 3,
+  "onboard_screen": [
+    {
+      "banner": 0,
+      "small_native": 1,
+      "big_native": 0
+    }
   ],
-  "users": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "dashboard_main": [
+    {
+      "banner": 0,
+      "small_native": 0,
+      "big_native": 1
+    }
+  ],
+  "direct_message_screen": [
+    {
+      "banner": 0,
+      "small_native": 0,
+      "big_native": 1
+    }
+  ],
+  "dual_whatsapp_screen": [
+    {
+      "banner": 1,
+      "small_native": 0,
+      "big_native": 0
+    }
+  ],
+  "private_browser_screen": [
+    {
+      "banner": 0,
+      "small_native": 0,
+      "big_native": 1
+    }
+  ],
+  "photo_vault_screen": [
+    {
+      "banner": 0,
+      "small_native": 1,
+      "big_native": 0
+    }
+  ],
+  "photo_edit_screen": [
+    {
+      "banner": 0,
+      "small_native": 1,
+      "big_native": 0
+    }
+  ],
+  "text_decoration_screen": [
+    {
+      "banner": 0,
+      "small_native": 0,
+      "big_native": 1
+    }
+  ],
+  "stylis_font_screen": [
+    {
+      "banner": 0,
+      "small_native": 1,
+      "big_native": 0
+    }
+  ],
+  "text_repeater_screen": [
+    {
+      "banner": 0,
+      "small_native": 0,
+      "big_native": 1
+    }
+  ],
+  "kaomoji_message_screen": [
+    {
+      "banner": 0,
+      "small_native": 0,
+      "big_native": 1
+    }
+  ],
+  "full_image_screen": [
+    {
+      "banner": 0,
+      "small_native": 1,
+      "big_native": 0
+    }
+  ],
+  "language_screen": [
+    {
+      "banner": 0,
+      "small_native": 0,
+      "big_native": 1
+    }
   ]
 }
