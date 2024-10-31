@@ -12,11 +12,11 @@
       "app_id": "6737214824",
       "is_app_open_ads": 0,
       "version":"1.2",
-      "ads_count": 3,
+      "ads_count": 30000000000,
       "onboard_screen": [
         {
           "banner": 0,
-          "small_native": 1,
+          "small_native": 0,
           "big_native": 0
         }
       ],
@@ -24,19 +24,19 @@
         {
           "banner": 0,
           "small_native": 0,
-          "big_native": 1
+          "big_native": 0
         }
       ],
       "direct_message_screen": [
         {
           "banner": 0,
           "small_native": 0,
-          "big_native": 1
+          "big_native": 0
         }
       ],
       "dual_whatsapp_screen": [
         {
-          "banner": 1,
+          "banner": 0,
           "small_native": 0,
           "big_native": 0
         }
@@ -45,20 +45,20 @@
         {
           "banner": 0,
           "small_native": 0,
-          "big_native": 1
+          "big_native": 0
         }
       ],
       "photo_vault_screen": [
         {
           "banner": 0,
-          "small_native": 1,
+          "small_native": 0,
           "big_native": 0
         }
       ],
       "photo_edit_screen": [
         {
           "banner": 0,
-          "small_native": 1,
+          "small_native": 0,
           "big_native": 0
         }
       ],
@@ -66,13 +66,13 @@
         {
           "banner": 0,
           "small_native": 0,
-          "big_native": 1
+          "big_native": 0
         }
       ],
       "stylis_font_screen": [
         {
           "banner": 0,
-          "small_native": 1,
+          "small_native": 0,
           "big_native": 0
         }
       ],
@@ -80,20 +80,20 @@
         {
           "banner": 0,
           "small_native": 0,
-          "big_native": 1
+          "big_native": 0
         }
       ],
       "kaomoji_message_screen": [
         {
           "banner": 0,
           "small_native": 0,
-          "big_native": 1
+          "big_native": 0
         }
       ],
       "full_image_screen": [
         {
           "banner": 0,
-          "small_native": 1,
+          "small_native": 0,
           "big_native": 0
         }
       ],
@@ -101,7 +101,7 @@
         {
           "banner": 0,
           "small_native": 0,
-          "big_native": 1
+          "big_native": 0
         }
       ]
       }
