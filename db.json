@@ -116,8 +116,8 @@
           "terms_condition": "https://siyaraminfotechapp.blogspot.com/2024/11/terms-and-conditions.html",
           "app_id": "6737772503",
           "version": "1.0",
-          "is_app_open_ads": 0,
-          "ads_count": 3000000000000000,
+          "is_app_open_ads": 1,
+          "ads_count": 3,
           "onboard_screen": [
               {
                   "banner": 0,
@@ -129,27 +129,27 @@
               {
                   "banner": 0,
                   "small_native": 0,
-                  "big_native": 0
+                  "big_native": 1
               }
           ],
           "save_files_screen": [
               {
                   "banner": 0,
                   "small_native": 0,
-                  "big_native": 0
+                  "big_native": 1
               }
           ],
           "favorite_screen": [
               {
                   "banner": 0,
                   "small_native": 0,
-                  "big_native": 0
+                  "big_native": 1
               }
           ],
           "Editor_screen": [
               {
                   "banner": 0,
-                  "small_native": 0,
+                  "small_native": 1,
                   "big_native": 0
               }
           ]
