@@ -2,21 +2,21 @@
   "report": [],
   "data": [
       {
-      "banner_key": "ca-app-pub-7304402226960623/2547146051",
-      "interstitial_key": "ca-app-pub-7304402226960623/2215802122",
-      "native_key": "ca-app-pub-7304402226960623/3321171675",
-      "app_open_ads": "ca-app-pub-7304402226960623/7386467822",
+      "banner_key": "ca-app-pub-4925239845877035/7026978393",
+      "interstitial_key": "ca-app-pub-4925239845877035/9405729726",
+      "native_key": "ca-app-pub-4925239845877035/6273004195",
+      "app_open_ads": "ca-app-pub-4925239845877035/4400815054",
       "privacy_policy": "https://mycrainfo.blogspot.com/2024/10/gb-version-2024-privacy-policy.html",
       "privacy_policy_text": "https://mycrainfo.blogspot.com/2024/10/gb-version-2024-privacy-policy.html",
       "terms_condition": "https://sites.google.com/view/livephoto",
       "app_id": "6737214824",
-      "is_app_open_ads": 1,
+      "is_app_open_ads": 0,
       "version":"1.4",
-      "ads_count": 3,
+      "ads_count": 300000000,
       "onboard_screen": [
         {
           "banner": 0,
-          "small_native": 1,
+          "small_native": 0,
           "big_native": 0
         }
       ],
@@ -24,19 +24,19 @@
         {
           "banner": 0,
           "small_native": 0,
-          "big_native": 1
+          "big_native": 0
         }
       ],
       "direct_message_screen": [
         {
           "banner": 0,
           "small_native": 0,
-          "big_native": 1
+          "big_native": 0
         }
       ],
       "dual_whatsapp_screen": [
         {
-          "banner": 1,
+          "banner": 0,
           "small_native": 0,
           "big_native": 0
         }
@@ -45,20 +45,20 @@
         {
           "banner": 0,
           "small_native": 0,
-          "big_native": 1
+          "big_native": 0
         }
       ],
       "photo_vault_screen": [
         {
           "banner": 0,
-          "small_native": 1,
+          "small_native": 0,
           "big_native": 0
         }
       ],
       "photo_edit_screen": [
         {
           "banner": 0,
-          "small_native": 1,
+          "small_native": 0,
           "big_native": 0
         }
       ],
@@ -66,13 +66,13 @@
         {
           "banner": 0,
           "small_native": 0,
-          "big_native": 1
+          "big_native": 0
         }
       ],
       "stylis_font_screen": [
         {
           "banner": 0,
-          "small_native": 1,
+          "small_native": 0,
           "big_native": 0
         }
       ],
@@ -80,20 +80,20 @@
         {
           "banner": 0,
           "small_native": 0,
-          "big_native": 1
+          "big_native": 0
         }
       ],
       "kaomoji_message_screen": [
         {
           "banner": 0,
           "small_native": 0,
-          "big_native": 1
+          "big_native": 0
         }
       ],
       "full_image_screen": [
         {
           "banner": 0,
-          "small_native": 1,
+          "small_native": 0,
           "big_native": 0
         }
       ],
@@ -101,7 +101,7 @@
         {
           "banner": 0,
           "small_native": 0,
-          "big_native": 1
+          "big_native": 0
         }
       ]
       }
